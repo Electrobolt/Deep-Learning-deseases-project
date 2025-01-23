@@ -49,10 +49,10 @@ Le notebook est structuré comme suit :
 6. **Visualisation :** Afficher les résultats et les visualisations.
 
 ## contributeurs 
-**TCHAFA TCHUITCHOU ELSY**
-**EDO VOUNDI NICOLAS**
-**FLORA PANSY**
-**DJIFACK LINE AUDREY**
-**TAZO TOUKEM BELLE-NICKELLE**
-**TAPAMO DEMANOU FRANTZ**
-**MBANG BELVINE**
+**TCHAFA TCHUITCHOU ELSY**;
+**EDO VOUNDI NICOLAS**;
+**FLORA PANSY**;
+**DJIFACK LINE AUDREY**;
+**TAZO TOUKEM BELLE-NICKELLE**;
+**TAPAMO DEMANOU FRANTZ**;
+**MBANG BELVINE**.
