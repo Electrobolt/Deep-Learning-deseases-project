@@ -1,5 +1,5 @@
 # Deep-Learning-deseases-project
-Voici la traduction en français de votre texte :
+
 
 # Prédiction du Cancer du Sein à l'aide de Réseaux de Neurones
 
@@ -48,11 +48,11 @@ Le notebook est structuré comme suit :
 5. **Évaluation :** Évaluer le modèle entraîné sur les données de test.
 6. **Visualisation :** Afficher les résultats et les visualisations.
 
-## contributeur 
-TCHAFA TCHUITCHOU ELSY
-EDO VOUNDI NICOLAS
-FLORA PANSY
-DJIFACK LINE AUDREY
-TAZO TOUKEM BELLE-NICKELLE
-TAPAMO DEMANOU FRANTZ 
-MBANG BELVINE 
+## contributeurs 
+**TCHAFA TCHUITCHOU ELSY**
+**EDO VOUNDI NICOLAS**
+**FLORA PANSY**
+**DJIFACK LINE AUDREY**
+**TAZO TOUKEM BELLE-NICKELLE**
+**TAPAMO DEMANOU FRANTZ**
+**MBANG BELVINE**
